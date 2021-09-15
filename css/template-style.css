@@ -795,20 +795,20 @@ display: table;
 	background-image: url(../img/aboutinner.jpg) ;
 	background-position:top center;
 	background-repeat: no-repeat;
-	height: 400px;
+	height: 600px;
 	background-size: cover;
 }
 .innerBanner01{
 	background-image: url(../img/aboutinner.jpg) ;
 }
 .innerBanner02{
-	background-image: url(../img/inner01.jpg) ;
+	background-image: url(../img/banner2.jpg) ;
 }
 .innerBanner03{
-	background-image: url(../img/inner02.jpg) ;
+	background-image: url(../img/banner5.jpg) ;
 }
 .innerBanner04{
-	background-image: url(../img/inner03.jpg) !important;
+	background-image: url(../img/star01.png) !important;
 }
 .innerBanner img{
 	width: 100%;
