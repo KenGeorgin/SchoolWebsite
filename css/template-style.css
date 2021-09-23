@@ -318,7 +318,7 @@ article ul li:before {
 	margin-top: 2em;
 }
 h2.section-title:after {
-	background: #dedede none repeat scroll 0 0;
+	background: #383838 none repeat scroll 0 0;
 	content: "";
 	display: block;
 	height: 1px;
@@ -327,7 +327,7 @@ h2.section-title:after {
 	width: 100px;
 }
 h2.section-title {
-	color: #dedede;
+	color: #383838;
 	font-size: 3.8em;
 	font-weight: 700;
 	letter-spacing: -1px;
